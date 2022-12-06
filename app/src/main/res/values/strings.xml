@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Memes</string>
+    <string name="kot1">TODO</string>
+    <string name="kot2">TODO</string>
+    <string name="kot3">TODO</string>
+    <string name="kot4">TODO</string>
+    <string name="textkota1">Вот это я поспал.</string>
+    <string name="textkota2">Эй ты кожаный, где моя еда?</string>
+    <string name="textkota3">Почему я здесь?</string>
+    <string name="textkota4">Сколько блох я сегодня насчитал?</string>
+</resources>
